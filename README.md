@@ -28,7 +28,7 @@ Din sajt ska som minimum ha minst 3 olika sektioner eller sidor med länkar mell
 ## Dokumentation
 Att kunna förstå och planera, revidera och utvärdera ett projekt …
 
-Skrivs antingen i ditt dokument på Classroom eller som video. 
-Båda sätten ska ha samma innehåll
-Du använder dig av korrekt svenska och ett gott språk med korrekta facktermer
-Glöm inte att utvärdera
+- Skrivs antingen i ditt dokument på Classroom eller som video. 
+- Båda sätten ska ha samma innehåll
+- Du använder dig av korrekt svenska och ett gott språk med korrekta facktermer
+- Glöm inte att utvärdera
